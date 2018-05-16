@@ -1,0 +1,13 @@
+C:\Users\andrei\source\repos\Server\Client\bin\Release\Client.exe.config
+C:\Users\andrei\source\repos\Server\Client\bin\Release\Client.exe
+C:\Users\andrei\source\repos\Server\Client\bin\Release\Client.pdb
+C:\Users\andrei\source\repos\Server\Client\bin\Release\Newtonsoft.Json.dll
+C:\Users\andrei\source\repos\Server\Client\bin\Release\Newtonsoft.Json.xml
+C:\Users\andrei\source\repos\Server\Client\obj\Release\Client-Writer.csprojResolveAssemblyReference.cache
+C:\Users\andrei\source\repos\Server\Client\obj\Release\Client.MainForm.resources
+C:\Users\andrei\source\repos\Server\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\andrei\source\repos\Server\Client\obj\Release\Client-Writer.csproj.GenerateResource.cache
+C:\Users\andrei\source\repos\Server\Client\obj\Release\Client-Writer.csproj.CoreCompileInputs.cache
+C:\Users\andrei\source\repos\Server\Client\obj\Release\Client-Writer.csproj.CopyComplete
+C:\Users\andrei\source\repos\Server\Client\obj\Release\Client.exe
+C:\Users\andrei\source\repos\Server\Client\obj\Release\Client.pdb

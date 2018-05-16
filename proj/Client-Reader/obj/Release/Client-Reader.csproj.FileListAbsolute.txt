@@ -1,0 +1,13 @@
+C:\Users\andrei\source\repos\Client-Reader\bin\Release\Client-Reader.exe.config
+C:\Users\andrei\source\repos\Client-Reader\bin\Release\Client-Reader.exe
+C:\Users\andrei\source\repos\Client-Reader\bin\Release\Client-Reader.pdb
+C:\Users\andrei\source\repos\Client-Reader\bin\Release\Newtonsoft.Json.dll
+C:\Users\andrei\source\repos\Client-Reader\bin\Release\Newtonsoft.Json.xml
+C:\Users\andrei\source\repos\Client-Reader\obj\Release\Client-Reader.csprojResolveAssemblyReference.cache
+C:\Users\andrei\source\repos\Client-Reader\obj\Release\Client_Reader.MainForm.resources
+C:\Users\andrei\source\repos\Client-Reader\obj\Release\Client_Reader.Properties.Resources.resources
+C:\Users\andrei\source\repos\Client-Reader\obj\Release\Client-Reader.csproj.GenerateResource.cache
+C:\Users\andrei\source\repos\Client-Reader\obj\Release\Client-Reader.csproj.CoreCompileInputs.cache
+C:\Users\andrei\source\repos\Client-Reader\obj\Release\Client-Reader.csproj.CopyComplete
+C:\Users\andrei\source\repos\Client-Reader\obj\Release\Client-Reader.exe
+C:\Users\andrei\source\repos\Client-Reader\obj\Release\Client-Reader.pdb

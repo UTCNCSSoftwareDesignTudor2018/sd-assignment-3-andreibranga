@@ -1,0 +1,14 @@
+C:\Users\andrei\source\repos\Server\Server\bin\Release\Server.exe.config
+C:\Users\andrei\source\repos\Server\Server\bin\Release\Server.exe
+C:\Users\andrei\source\repos\Server\Server\bin\Release\Server.pdb
+C:\Users\andrei\source\repos\Server\Server\bin\Release\EntityFramework.dll
+C:\Users\andrei\source\repos\Server\Server\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\andrei\source\repos\Server\Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\andrei\source\repos\Server\Server\bin\Release\EntityFramework.xml
+C:\Users\andrei\source\repos\Server\Server\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\andrei\source\repos\Server\Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\andrei\source\repos\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\andrei\source\repos\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\andrei\source\repos\Server\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\andrei\source\repos\Server\Server\obj\Release\Server.exe
+C:\Users\andrei\source\repos\Server\Server\obj\Release\Server.pdb

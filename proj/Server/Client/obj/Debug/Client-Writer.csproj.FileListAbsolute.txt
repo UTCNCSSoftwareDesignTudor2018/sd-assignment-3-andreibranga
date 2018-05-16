@@ -1,0 +1,13 @@
+C:\Users\andrei\source\repos\Server\Client\bin\Debug\Client.exe.config
+C:\Users\andrei\source\repos\Server\Client\bin\Debug\Client.exe
+C:\Users\andrei\source\repos\Server\Client\bin\Debug\Client.pdb
+C:\Users\andrei\source\repos\Server\Client\obj\Debug\Client.MainForm.resources
+C:\Users\andrei\source\repos\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\andrei\source\repos\Server\Client\obj\Debug\Client-Writer.csproj.GenerateResource.cache
+C:\Users\andrei\source\repos\Server\Client\obj\Debug\Client-Writer.csproj.CoreCompileInputs.cache
+C:\Users\andrei\source\repos\Server\Client\obj\Debug\Client.exe
+C:\Users\andrei\source\repos\Server\Client\obj\Debug\Client.pdb
+C:\Users\andrei\source\repos\Server\Client\obj\Debug\Client-Writer.csprojResolveAssemblyReference.cache
+C:\Users\andrei\source\repos\Server\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andrei\source\repos\Server\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andrei\source\repos\Server\Client\obj\Debug\Client-Writer.csproj.CopyComplete
